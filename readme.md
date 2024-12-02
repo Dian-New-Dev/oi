@@ -8,16 +8,16 @@
 - Não ficar rebatendo, deixar o cliente reclamar e desabafar e então trazer para o problema.
 - Não remoer o problema, focar na solução.
 
-Fraseologia
+## Fraseologia
 
 1.	“Suporte Técnico Fibra, bom dia. Meu nome é Diego, com quem eu falo?”
 
 2.	“Nome, caso a ligação caia, peço que aguarde alguns segundos para eu fazer o retorno. Como posso te ajudar hoje?”
 
 3.	“Certo. Pra abrir seu atendimento, preciso confirmar algumas informações.
-a.	CPF
-b.	Telefone
-c.	Banda Larga + Fixo”
+- CPF
+- Telefone
+- Banda Larga + Fixo”
 4.	“Os dados estão corretos?”
 5.	Tratativa...
 6.	“Te ajudo em algo mais”
@@ -30,15 +30,16 @@ c.	Banda Larga + Fixo”
 
 10.	“Nome, agradeço o contato. Vou te encaminhar para uma rápida pesquisa de satisfação, onde a primeira nota é sobre o meu atendimento e as demais notas são para a empresa. Uma boa semana, tchau, tchau!”
 
-Reparo e Remanejamento
+# Reparo e Remanejamento
 
-2 Tipos de Tratativa
-•	Ordem de Serviço (OS): Remanejamento de Modem
-o	Tem que ser mesma residência
-o	Cliente tem que ter sinal
-•	Reparo (BD)
-o	Quando cliente não tem sinal
-•	Se remanejamento aberto, não abrir reparo, e vice versa.
+## 2 Tipos de Tratativa
+1) Ordem de Serviço (OS): Remanejamento de Modem
+- Tem que ser mesma residência
+- Cliente tem que ter sinal
+2) Reparo (BD)
+- Quando cliente não tem sinal
+
+* Se remanejamento aberto, não abrir reparo, e vice versa.
 •	OS nunca é cobrada, mas falar que pode se visita improdutiva.
 •	Não abre reparo para fixo. Manda pro avançado.
 o	Só abre se cliente exigir. Avisar de visita improdutiva.
